@@ -1,6 +1,6 @@
 package com.shirsho.crudprojectusingdb.service;
 
-import com.shirsho.crudprojectusingdb.model.Student;
+import com.shirsho.crudprojectusingdb.model.dao.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

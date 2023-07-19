@@ -1,4 +1,4 @@
-package com.shirsho.crudprojectusingdb.model;
+package com.shirsho.crudprojectusingdb.model.dao;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
